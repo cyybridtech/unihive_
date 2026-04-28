@@ -21,11 +21,7 @@ export default defineConfig({
       manifest: {
         name: 'UniHive',
         short_name: 'UniHive',
-        description: '        node_modules/
-        dist/
-        .vite/
-        .env
-        .DS_Store.',
+        description: 'Verified student hostel accommodation across Ghana.',
         theme_color: '#f59e0b',
         background_color: '#ffffff',
         display: 'standalone',
